@@ -1,0 +1,21 @@
+# Maven
+target/
+
+# React
+node_modules/
+dist/
+
+# Eclipse / STS
+.classpath
+.project
+.settings/
+
+# IntelliJ
+.idea/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
