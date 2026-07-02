@@ -10,11 +10,16 @@ import com.ihub.www.repo.UserRepository;
 public class AuthService {
 
     @Autowired
-    UserRepository userRepository;
+    private UserRepository userRepository;
 
     public boolean login(String username, String password) {
         User user = userRepository.findByUsername(username);
-        if (user == null) return false;
+
+        if (user == null) {
+            return false;
+        }
+
         return user.getPassword().equals(password);
     }
 }
+
