@@ -13,8 +13,8 @@ A full-stack Employee Management System built using Spring Boot and React that e
 
 | | |
 |---|---|
-| **Frontend** | Coming Soon |
-| **Backend API** | Coming Soon |
+| **Frontend**    | https://employee-management-frontend-tsdn.onrender.com |
+| **Backend API** | https://employee-management-system-0kmx.onrender.com   |
 
 ---
 
