@@ -86,9 +86,29 @@ MySQL / PostgreSQL
 
 ## 📸 Screenshots
 
+# 📷 Project Screenshots
+
 ## Login Page
 
 ![Login Page](screenshots/Login.png)
+
+---
+
+## Dashboard
+
+![Dashboard](screenshots/dashboard.png)
+
+---
+
+## Add Employee
+
+![Add Employee](screenshots/addemployee.png)
+
+---
+
+## Employee List
+
+![Employee List](screenshots/ReadEmployee.png)
 
 
 
