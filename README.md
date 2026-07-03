@@ -86,11 +86,10 @@ MySQL / PostgreSQL
 
 ## 📸 Screenshots
 
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/aeb9a4df-7760-4859-b703-7834493b747c" />
 
 
 
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/494d0ae9-ace6-46e5-8853-d8b7ec020294" />
+
 
 
 
