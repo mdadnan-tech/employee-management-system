@@ -86,7 +86,11 @@ MySQL / PostgreSQL
 
 ## 📸 Screenshots
 
-Screenshots will be added after deployment.
+
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/5fa546e7-1f81-4110-b571-5bcb650448f2" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/ccf89387-bfdc-444e-b5bf-595f97e1ea98" />
+
+
 
 ---
 
