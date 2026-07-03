@@ -202,7 +202,7 @@ Frontend runs on `http://localhost:5173`
 Java Full Stack Developer  
 🔗 LinkedIn: https://linkedin.com/in/md-adnan-tech  
 🔗 GitHub: https://github.com/mdadnan-tech  
-📷 Instagram: https://instagram.com/JavaWithAdnan
+📷 Gmail:md.adnan.prof@gmail.com
 
 ---
 
